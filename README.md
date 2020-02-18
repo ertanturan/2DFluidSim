@@ -20,8 +20,4 @@ http://prideout.net/blog/?p=58
 
 http://www.memo.tv/ofxmsafluid/
 
-# More Info
-
-For more information, please visit http://blog.csdn.net/candycat1992.
-
 
